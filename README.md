@@ -1,4 +1,4 @@
-## SHREE LEKHA.S 212223110052
+## Harini.S 212223240048
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
 # AIM:
