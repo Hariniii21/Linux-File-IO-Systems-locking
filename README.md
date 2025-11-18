@@ -85,11 +85,12 @@ int main (int argc, char* argv[])
 ```
 
 ## OUTPUT
-![1](https://github.com/user-attachments/assets/288e7db3-2857-4124-a73d-774f9146694c)
+<img width="671" height="356" alt="7a" src="https://github.com/user-attachments/assets/cc7f85dc-e82d-49c0-9cd4-a745e2635166" />
 
+<img width="922" height="833" alt="image" src="https://github.com/user-attachments/assets/4bf7b0f6-b4b2-44d6-9302-e436c1138e6c" />
 
+<img width="923" height="691" alt="image" src="https://github.com/user-attachments/assets/59f69780-2b47-4bd1-a6c7-503d258ea5be" />
 
-![2](https://github.com/user-attachments/assets/b923e35c-3467-42b0-b51e-b90c299c679d)
 
 
 # RESULT:
